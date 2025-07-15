@@ -67,3 +67,5 @@ gem "default_value_for"
 gem "activeadmin_addons"
 gem "kaminari-i18n"
 gem "paper_trail"
+
+gem "diffy", "~> 3.4"

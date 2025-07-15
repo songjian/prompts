@@ -1,0 +1,18 @@
+zh-CN:
+  hello: "你好"
+  activerecord:
+    models:
+      admin_user: "管理员"
+      prompt: "提示词"
+    attributes:
+      admin_user:
+        email: "电子邮件"
+        name: "姓名"
+        password: "密码"
+        password_confirmation: "确认密码"
+      prompt:
+        title: "标题"
+        content: "内容"
+        versions: "版本数"
+        created_at: "创建时间"
+        updated_at: "更新时间"
